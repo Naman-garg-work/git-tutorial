@@ -1,2 +1,2 @@
 console.log('console.js')
-console.log('version2.1')
+console.log('version1')
